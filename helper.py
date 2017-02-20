@@ -1,3 +1,5 @@
+from other import greeting2
+
 def greeting(msg):
-    print(msg)
+    greeting2(msg)
 
